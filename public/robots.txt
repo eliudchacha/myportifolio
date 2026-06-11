@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://eliudwaryoba.tech/sitemap.xml
+
+# Optional: block junk crawling (not needed for portfolio but clean practice)
+Disallow:
